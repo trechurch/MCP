@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Windows 8.3 short-name artifacts
+*~1/
+*~2/
+*~3/
+
+# Claude sandbox exports
+LOCAL_*/
+outputs/
+
+# Environment files
+.env
+.env.*
